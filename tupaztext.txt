@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 print("hellooo, goodbye, fsuu, tupaz")
 
+=======
+print("hellooo, goodbye, fsuu")
+print("kathleen")
+>>>>>>> ec7ba93822fc62aee60a99650affae04472ad394
